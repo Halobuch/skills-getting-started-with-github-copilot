@@ -74,6 +74,12 @@ activities = {
         "schedule": "Fridays, 3:30 PM - 4:30 PM",
         "max_participants": 20,
         "participants": []
+    },
+    "Robotics Club": {
+        "description": "Design, build, and program robots for competitions and projects",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": []
     }
 }
 
